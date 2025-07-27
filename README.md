@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Devatheertha
-👨‍💻 a tech enthusiast and student passionate about building impactful projects.  
+👨‍💻 A tech enthusiast and student passionate about building impactful projects.  
 💻 I love working with Python, web development, and machine learning.  
 🚀 Currently exploring real-world solutions through code and collaboration.  
 📫 Let's connect and create something amazing!
